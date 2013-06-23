@@ -1,0 +1,32 @@
+{
+  "name": "grunt-jade-tasks",
+  "version": "0.0.0",
+  "description": "Grunt tasks for jade template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/rhrn/grunt-jade-tasks/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "jade": "latest"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rhrn/grunt-jade-tasks.git"
+  },
+  "keywords": [
+    "grunt",
+    "jade",
+    "task"
+  ],
+  "author": "@rhrn",
+  "license": "BSD"
+}
